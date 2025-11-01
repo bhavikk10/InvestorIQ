@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "icon": "🏗️",
+    "title": "Budget Performance",
+    "description": "The Downtown Project is trending 8% under budget this quarter.",
+    "timestamp": "2 min ago",
+    "type": "positive"
+  },
+  {
+    "id": 2,
+    "icon": "📈",
+    "title": "ROI Projection",
+    "description": "Investor returns projected +12% next quarter due to sales acceleration.",
+    "timestamp": "5 min ago",
+    "type": "positive"
+  },
+  {
+    "id": 3,
+    "icon": "⚡",
+    "title": "Cost Alert",
+    "description": "Material cost fluctuation may affect Project A by $1.5M next month.",
+    "timestamp": "8 min ago",
+    "type": "warning"
+  },
+  {
+    "id": 4,
+    "icon": "🔔",
+    "title": "Risk Warning",
+    "description": "3 projects flagged medium-risk due to delayed permits.",
+    "timestamp": "12 min ago",
+    "type": "warning"
+  },
+  {
+    "id": 5,
+    "icon": "💡",
+    "title": "Performance Leader",
+    "description": "North Tower is outperforming other projects by 7% ROI margin.",
+    "timestamp": "15 min ago",
+    "type": "positive"
+  },
+  {
+    "id": 6,
+    "icon": "📊",
+    "title": "Timeline Update",
+    "description": "GreenScape Residences ahead of schedule by 2 months.",
+    "timestamp": "20 min ago",
+    "type": "positive"
+  },
+  {
+    "id": 7,
+    "icon": "⚠️",
+    "title": "Budget Overrun",
+    "description": "Coastal Villas exceeding budget by 8.3% - requires attention.",
+    "timestamp": "25 min ago",
+    "type": "negative"
+  },
+  {
+    "id": 8,
+    "icon": "🎯",
+    "title": "Milestone Achieved",
+    "description": "Skyline Heights reached 85% completion milestone.",
+    "timestamp": "30 min ago",
+    "type": "positive"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Downtown Towers",
+    "budgetPlanned": 250000000,
+    "budgetUsed": 210000000,
+    "roi": 0.18,
+    "progress": 80,
+    "risk": "Low",
+    "investor": "Alpha Capital",
+    "timelineMonths": 24,
+    "status": "On Track",
+    "region": "New York"
+  },
+  {
+    "id": 2,
+    "name": "GreenScape Residences",
+    "budgetPlanned": 150000000,
+    "budgetUsed": 140000000,
+    "roi": 0.22,
+    "progress": 95,
+    "risk": "Medium",
+    "investor": "Vision Partners",
+    "timelineMonths": 30,
+    "status": "Delayed",
+    "region": "Los Angeles"
+  },
+  {
+    "id": 3,
+    "name": "North Tower",
+    "budgetPlanned": 320000000,
+    "budgetUsed": 285000000,
+    "roi": 0.25,
+    "progress": 75,
+    "risk": "Low",
+    "investor": "Prime Realty Fund",
+    "timelineMonths": 36,
+    "status": "On Track",
+    "region": "Chicago"
+  },
+  {
+    "id": 4,
+    "name": "Coastal Villas",
+    "budgetPlanned": 180000000,
+    "budgetUsed": 195000000,
+    "roi": 0.12,
+    "progress": 60,
+    "risk": "High",
+    "investor": "Alpha Capital",
+    "timelineMonths": 28,
+    "status": "At Risk",
+    "region": "Miami"
+  },
+  {
+    "id": 5,
+    "name": "Skyline Heights",
+    "budgetPlanned": 420000000,
+    "budgetUsed": 380000000,
+    "roi": 0.19,
+    "progress": 85,
+    "risk": "Medium",
+    "investor": "Vision Partners",
+    "timelineMonths": 32,
+    "status": "On Track",
+    "region": "San Francisco"
+  },
+  {
+    "id": 6,
+    "name": "Urban Gardens",
+    "budgetPlanned": 120000000,
+    "budgetUsed": 110000000,
+    "roi": 0.15,
+    "progress": 70,
+    "risk": "Low",
+    "investor": "Prime Realty Fund",
+    "timelineMonths": 20,
+    "status": "On Track",
+    "region": "Seattle"
+  }
+]
